@@ -1,0 +1,5 @@
+D:/1c/RabbitMQ/PinkRabbitMQ/linux/out/build/x64-debug/CMakeFiles/PinkRabbitMQ64.dir
+D:/1c/RabbitMQ/PinkRabbitMQ/linux/out/build/x64-debug/CMakeFiles/unittest.dir
+D:/1c/RabbitMQ/PinkRabbitMQ/linux/out/build/x64-debug/CMakeFiles/test.dir
+D:/1c/RabbitMQ/PinkRabbitMQ/linux/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/1c/RabbitMQ/PinkRabbitMQ/linux/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
